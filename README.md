@@ -21,6 +21,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 > pkg install ffmpeg
 > pkg install nodejs
 > git clone https://github.com/palabapakmu/Reyyzbot
+>npm i -g cwebp && npm i -g ytdl && npm i
 > cd Reyyzbot
 > bash install.sh
 > node index.js
