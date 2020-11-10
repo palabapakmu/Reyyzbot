@@ -1,5 +1,5 @@
-# rbot
-BOT WHATSAPP VIA TERMUX BY REUZ
+# Reyyz
+BOT WHATSAPP VIA TERMUX BY Reyyz
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/benisadewa/rbot.git
-> cd rbot
+> git clone https://github.com/palabapakmu/Reyyzbot
+> cd Reyyzbot
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -41,7 +41,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Twitter Downloader               |
 |       ✅       | Facebook Downloader              |
 |       ✅       | Wikipedia                        |
-|       ✅       | Say                              |
+|                | Say                              |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-Gopay : 081271699856
+Gopay : 083138431208
