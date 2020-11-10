@@ -17,6 +17,9 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
+> pkg install git
+> pkg install ffmpeg
+> pkg install nodejs
 > git clone https://github.com/palabapakmu/Reyyzbot
 > cd Reyyzbot
 > bash install.sh
